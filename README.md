@@ -1,2 +1,2 @@
 # beop101.github.com
-my web page.
+welcome to my web site.
